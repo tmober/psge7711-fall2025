@@ -1,4 +1,4 @@
-# PSGE 7711: Week 9
+# PSGE 7711
 # Exploratory Factor Analysis (EFA) with BFI data
 
 
