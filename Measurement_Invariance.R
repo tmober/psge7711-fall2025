@@ -1,4 +1,4 @@
-# PSGE 7711: Week 11
+# PSGE 7711
 # Measurement Invariance with Test Anxiety Data 
 
 
