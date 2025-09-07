@@ -1,4 +1,4 @@
-# PSGE 7711: Week 3
+# PSGE 7711
 # Calculating Correlations with BFI data
 
 
