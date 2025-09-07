@@ -1,4 +1,4 @@
-# PSGE 7711: Week 2
+# PSGE 7711
 # Importing and Manipulating Data
 
 # Congratulations! It seems that you've figured out how to open the R file! Note that this activity is meant to be conducted using the desktop RStudio application.
