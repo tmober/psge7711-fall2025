@@ -1,0 +1,268 @@
+"user_id","biological_sex_n","current_age_years","home_language_n","ethn_n","ethn_AmerIn1","ethn_MENA1","ethn_Asian1","ethn_Black1","ethn_Hawa1","ethn_HispAny1","ethn_HispOther1","ethn_MexAmer1","ethn_Puerto1","ethn_White1","ethn_Multi1","ethn_Other1","ethn_PreferNot1","ta_01","ta_02R","ta_03","ta_04R","ta_05","ta_06R","ta_07","ta_08R","ta_09","ta_10R","ta_11","ta_12R","raw_ta_02","raw_ta_03","raw_ta_06","raw_ta_08","raw_ta_10","raw_ta_12"
+"1","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,2,3,2,2,4,2,2,3,4,4,3,4,4,3
+"2","Female",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,4,2,2,4,1,4,4,4,1,4,2,4,2,2,2,2
+"3","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,3,5,5,1,1,1,5,5,1,5,5,1,5,5,1,1
+"4","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,1,4,1,2,1,2,1,4,3,3,4,2,4,4,2,3
+"5","Female",21,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,5,5,5,5,4,4,5,5,5,5,4,1,1,2,1,1,2
+"6","Female",20,"I most often speak a language other than English at home. The language is","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,5,5,4,4,4,4,5,5,4,4,4,1,2,2,1,2,2
+"7","Female",22,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,4,4,1,1,3,4,5,5,2,5,5,2,5,3,1,4,1
+"8","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,1,1,5,5,5,2,5,1,5,5,5,1,4,5
+"9","Female",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,4,3,1,2,1,3,4,2,4,3,2,3,4,3,4,3
+"10","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,3,3,5,1,2,1,3,5,4,5,4,3,1,4,3,2,2
+"11","Male",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,5,5,1,2,2,4,5,5,4,3,2,1,4,2,1,3
+"12","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,2,5,1,5,4,1,1,5,1,5,2,1,1,5,1,1
+"13","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,4,4,4,4,2,4,5,2,4,4,1,2,2,2,4,2
+"14","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,3,2,4,2,4,2,5,3,4,2,2,4,4,4,3,4
+"15","Female",21,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,2,2,1,5,2,5,5,5,1,5,5,4,5,4,1,5,1
+"16","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,4,5,4,5,4,5,5,5,1,1,1,1,1,1
+"17","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,1,1,1,4,5,1,1,1,5,5,5,5,1,5,1
+"18","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,5,5,5,5,4,5,5,1,5,1,1,1,1,1,5,5
+"19","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,3,2,1,2,2,4,2,2,4,4,4,4,2,4
+"20","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,3,3,4,2,3,2,4,4,3,2,3,3,4,4,2,4
+"21","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,1,5,5,1,5,3,1,5,5,2,5,1,1,5,1
+"22","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,2,1,4,3,4,5,2,4,5,2,4,2,2,4,1
+"23","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,1,3,3,1,2,1,3,4,1,1,2,5,3,4,3,5,4
+"24","Male",19,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,2,2,2,4,2,4,4,1,2,5,4,4,4,2,4
+"25","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1
+"26","Male",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,1,1,5,5,4,1,5,3,1,5,1,5,1,5,3,1
+"27","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,5,2,2,2,4,4,5,5,4,2,1,4,4,2,1,4
+"28","Male",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,4,2,3,2,4,2,1,1,4,4,4,4,4,5
+"29","Female",20,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,1,1,1,5,5,1,5,1,2,5,1,5,5,1,1,4,5
+"30","Female",21,"I most often speak English at home","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,4,4,2,3,4,4,4,4,4,2,3,2,2,3,2,2,4,4
+"31","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,5,5,4,3,5,5,1,5,1,1,1,3,1,1
+"32","Female",20,"I most often speak a language other than English at home. The language is","Mexican American",0,0,0,0,0,0,0,1,0,0,0,0,0,5,5,4,4,5,4,4,4,4,4,5,4,1,2,2,2,2,2
+"33","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,4,2,3,2,2,3,3,3,4,2,3,4,4,3,3,4
+"34","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,2,1,1,1,1,2,2,1,2,1,4,5,5,4,5,5
+"35","Female",20,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,2,3,4,4,2,4,2,4,4,4,4,4,3,2,2,2,2,2
+"36","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,3,5,5,2,1,1,5,2,5,5,1,1,4,5,4,1
+"37","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,3,4,1,4,1,2,5,2,3,2,3,2,2,4,4,4
+"38","Female",20,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,1,1,5,5,1,5,5,5,1,5,1,5,1,1,1,1
+"39","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,1,2,1,3,3,4,1,2,4,4,4,3,2,4
+"40","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,4,4,2,4,3,2,5,4,2,3,4,2,2,4,2,3
+"41","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,2,4,1,3,2,3,4,4,2,2,5,2,3,3,2,4
+"42","Male",20,"I most often speak English at home","Black or African-American",0,0,0,1,0,0,0,0,0,0,0,0,0,5,1,5,5,1,1,5,1,5,1,1,1,5,1,5,5,5,5
+"43","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,2,4,5,1,4,1,2,4,5,1,2,4,1,2,4,1,4
+"44","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,2,3,1,2,1,2,3,2,1,2,4,3,4,4,4,4
+"45","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,4,5,4,5,5,5,5,5,1,1,1,1,1,1
+"46","Male",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,1,5,1,5,5,1,1,5,5,1,5,5,5,1,5,1,1
+"47","Female",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,5,3,4,3,2,3,4,4,5,4,2,3,3,3,2,2
+"48","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,5,4,4,4,5,5,4,5,4,2,1,2,1,2,2
+"49","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,2,2,3,3,2,2,4,2,1,2,3,4,3,4,4,4
+"50","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,4,4,2,2,3,3,4,4,4,2,3,2,4,3,2,4
+"51","Female",20,"I most often speak English at home","Prefer not to respond",0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,5,5,5,5,4,5,5,5,5,4,1,1,1,1,1,2
+"52","Female",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,3,3,4,4,2,2,3,3,4,4,4,3,3,2,4,3,2,3
+"53","Male",19,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,5,5,3,5,5,1,4,1,5,5,5,5,1,1,5,5,1,1
+"54","Female",19,"I most often speak English at home","Prefer not to respond",0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,4,3,4,3,3,3,4,4,4,3,2,3,3,3,2,3
+"55","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,5,3,3,5,5,5,5,1,1,1,3,1,1,5
+"56","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,2,2,2,4,2,4,4,2,2,2,4,2,2,4
+"57","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,2,1,2,1,2,1,4,1,2,5,4,4,4,2,4
+"58","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,5,1,5,5,4,1,5,5,1,5,5,5,1,5,1,1
+"59","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,4,5,2,4,2,4,5,2,4,4,2,1,2,2,4,2
+"60","Female",20,"I most often speak a language other than English at home. The language is","Mexican American",0,0,0,0,0,0,0,1,0,0,0,0,0,5,4,5,4,4,2,4,3,5,5,5,3,2,2,4,3,1,3
+"61","Female",18,"I most often speak a language other than English at home. The language is","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,1,5,1,5,5,1,5,5,1,4,5,5,5,1,1,5,1
+"62","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,1,2,2,1,2,2,1,2,4,4,4,5,4,4
+"63","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,3,3,3,2,3,2,4,4,2,2,3,3,3,2,4
+"64","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,5,3,4,4,4,4,4,4,4,2,1,2,2,2,2
+"65","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,1,2,2,2,1,1,4,2,2,1,4,4,4,5,4,5
+"66","Female",18,"I most often speak English at home","Mexican American",0,0,0,0,0,0,0,1,0,0,0,0,0,5,4,5,5,4,5,5,4,5,5,5,4,2,1,1,2,1,2
+"67","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,1,1,2,1,1,1,4,1,2,4,5,4,5,2,4
+"68","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,3,4,3,4,4,4,4,4,4,3,2,2,2,2,2,3
+"69","Male",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,5,4,4,2,2,2,2,1,2
+"70","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,5,5,4,4,4,2,2,5,5,4,1,1,2,4,1,2
+"71","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,2,2,2,2,4,4,2,2,4,4,4,4,2,4
+"72","Male",21,"I most often speak English at home","Middle Eastern or North African",0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,5,5,5
+"73","Male",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,2,5,5,5,5,5,4
+"74","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,2,5,2,4,4,5,3,5,2,1,4,4,2,3,4
+"75","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,3,5,1,5,1,5,1,1,1,5,5,1,1,1,5,1
+"76","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,1,5,2,1,1,1,2,5,5,5,5,4,5,4,1
+"77","Female",27,"I most often speak a language other than English at home. The language is","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,5,5,5,5,5,5,5,1,1,5,1,1,1,1,5
+"78","Female",20,"I most often speak English at home","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,5,5,5,5,2,5,5,5,1,5,4,1,1,1,1,1
+"79","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,1,5,3,1,5,4,1,1,1,5,5,5,3,1,5,5,1
+"80","Male",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,5,4,5,5,4,1,1,5,5,1,1,2,5
+"81","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,4,1,5,1,5,5,5,3,5,1,1,5,5,1,3,5
+"82","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,1,5,1,1,1,1,1,1,1,1,5,5,5,5,5
+"83","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,5,5,5,1,4,1,3,3,5,5,5,1,5,5,3,1
+"84","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,1,5,1,1,5,1,5,5,3,5,5,5,5,1,1,3,1
+"85","Male",21,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,2,3,1,1,4,1,1,5,1,5,1,3,5,5,1,1
+"86","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,3,5,1,1,1,5,5,5,1,1,1,1,5,1,1,5
+"87","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,2,1,1,1,5,5,5,5,5,5
+"88","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,2,5,5,4,3,4,4,5,4,4,2,1,2,2,1,2
+"89","Female",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,4,5,4,4,4,1,4,5,2,4,4,2,2,2,2,4,2
+"90","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,4,4,2,3,4,2,4,4,5,2,1,2,3,4,2,4
+"91","Female",19,"I most often speak English at home","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,4,4,3,2,3,2,4,4,5,2,5,1,2,4,4,2,4,5
+"92","Female",22,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,4,4,5,3,4,4,5,4,3,1,5,2,1,2,1,3,1
+"93","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,4,4,4,5,2,3,4,4,2,2,1,2,1,3,2,4
+"94","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,1,2,2,2,1,2,2,4,1,1,4,4,4,4,2,5
+"95","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,2,5,5,4,4,4,4,4,4,4,5,4,1,2,2,2,1
+"96","Female",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,2,3,2,3,1,4,2,4,2,1,1,2,3,3,2,2,5,4
+"97","Female",20,"I most often speak English at home","Native Hawaiian or other Pacific Islander",0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,4,4,2,4,4,4,4,4,4,4,4,2,2,2,2,2
+"98","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,5,5,4,4,4,4,5,5,5,4,2,1,2,2,1,2
+"99","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,1,2,2,2,2,4,2,3,4,4,4,4,2,3
+"100","Female",19,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,2,2,2,4,2,2,2,4,1,2,4,4,2,4,2,4
+"101","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,4,4,2,4,2,4,4,4,4,4,4,2,2,2,2,2
+"102","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,4,2,2,2,2,4,4,4,2,2,2,4,4,2,2,4
+"103","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,1,2,1,2,2,2,3,2,3,1,5,4,4,4,4,5
+"104","Female",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,2,2,3,1,3,3,3,2,2,1,2,4,3,3,3,4,4
+"105","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,4,2,2,2,3,2,2,4,4,2,3,4,4,4,2,4
+"106","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,4,4,4,4,4,4,4,2,2,2,2,2,2
+"107","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,2,4,2,2,3,2,4,2,4,4,2,4,4,4
+"108","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,3,4,2,2,2,4,2,2,2,2,3,4,4,4,4
+"109","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,4,1,4,5,4,5,4,4,4,2,2,2,2,2,2
+"110","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,4,2,4,2,1,4,5,4,5,4,2,4,4,2,2,2
+"111","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,3,4,3,3,4,4,5,4,2,2,2,3,2,2
+"112","Male",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,2,2,1,2,1,2,4,2,4,1,2,4,4,4,4,5
+"113","Female",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,5,4,4,1,4,3,4,4,3,3,4,1,2,2,2,3,2
+"114","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,2,3,3,3,2,3,2,2,2,3,3,3,3,3,4,3
+"115","Female",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,4,5,4,2,4,2,5,4,4,4,2,2,2,2,1,2,4
+"116","Female",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,5,4,5,4,5,4,5,4,5,5,4,1,1,1,1,1,2
+"117","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,4,4,3,3,5,4,3,2,2,2,3,1,3
+"118","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,2,2,4,2,4,4,4,4,2,2,4,2,2,2,4
+"119","Male",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,5,4,4,5,5,5,5,5,1,1,2,1,1,1
+"120","Male",20,"I most often speak English at home","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,2,3,2,3,2,3,2,1,4,2,5,1,3,3,3,5,4,5
+"121","Male",19,"I most often speak English at home","Middle Eastern or North African",0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,4,4,2,2,2,4,4,2,1,4,2,4,4,2,5
+"122","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,2,2,1,1,2,2,3,3,1,2,4,4,5,4,3,4
+"123","Male",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,2,1,2,3,3,1,1,5,4,4,4,3,5
+"124","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,1,4,1,3,1,3,3,1,1,4,3,2,3,3,5,2
+"125","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,2,3,2,4,4,4,4,2,2,4,4,2,2
+"126","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,4,4,1,4,1,4,4,4,4,4,4,2,2,2,2,2
+"127","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,4,2,2,2,1,2,4,2,3,2,4,4,4,4,4,4
+"128","Male",20,"I most often speak English at home","Prefer not to respond",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,1,1,1,1,1,1,3,1,5,4,5,5,5,5
+"129","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,4,2,4,4,4,4,1,4,4,2,2,2,2,5,2
+"130","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,1,2,1,1,1,1,2,1,2,1,4,4,5,5,5,5
+"131","Male",20,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,2,3,4,2,2,1,4,5,4,4,4,3,4,5,1,2
+"132","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,3,3,3,3,3,3,4,3,3,4,4,3,3,3,3,2
+"133","Female",20,"I most often speak a language other than English at home. The language is","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,5,5,5,5,5,5,5,5,5,1,5,5,1,1,1,1,5,1
+"134","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,4,4,5,4,2,4,4,5,5,4,1,2,2,2,1,2
+"135","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,4,3,2,2,1,3,4,4,2,3,4,3,4,3,2,3
+"136","Male",25,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,3,3,4,3,2,2,2,3,4,2,2,2,3,3,4,3,4,4
+"137","Female",27,"I most often speak a language other than English at home. The language is","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,5,5,4,3,3,3,4,4,4,2,2,1,3,3,2,4
+"138","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,3,2,2,2,2,3,4,2,2,2,3,4,4,3,4,4
+"139","Female",18,"I most often speak English at home","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4,4,2,4,2,2,4,3,2,4,4,2,2,4,3,2
+"140","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,5,5,5,4,4,5,5,5,5,2,1,1,2,1,1
+"141","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,4,5,5,5,5,5,5,4,1,1,1,1,1,2
+"142","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,5,4,1,1,3,4,2,2,4,2,1,5,3,4,2
+"143","Female",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,2,4,4,2,4,4,2,1,1,4,4,2,4,2,5,2
+"144","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,4,3,3,2,4,3,4,3,4,3,3,3,4,3,3,3
+"145","Female",23,"I most often speak a language other than English at home. The language is","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,1,2,1,2,1,2,1,2,1,2,3,4,4,4,4,4
+"146","Male",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,1,2,2,2,4,2,2,3,1,2,4,4,4,4,3,4
+"147","Female",21,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,2,2,1,2,2,2,2,4,4,2,4,4,4,4,2,4
+"148","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,3,3,3,3,3,3,3,2,3,2,3,3,3,3,4,4
+"149","Male",81,"I most often speak a language other than English at home. The language is","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,2,1,5,5,5,5,5,5
+"150","Female",20,"I most often speak English at home","Middle Eastern or North African",0,1,0,0,0,0,0,0,0,0,0,0,0,5,5,5,1,4,5,4,5,5,4,5,4,1,5,1,1,2,2
+"151","Female",19,"I most often speak a language other than English at home. The language is","Mexican American",0,0,0,0,0,0,0,1,0,0,0,0,0,4,2,5,4,1,3,1,4,4,1,2,2,4,2,3,2,5,4
+"152","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,5,4,3,4,4,4,4,4,4,4,2,2,2,2,2,2
+"153","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,4,4,4,4,2,4,4,3,4,3,2,2,2,2,3,3
+"154","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,4,4,2,3,4,4,4,5,5,4,2,2,3,2,1,2
+"155","Female",19,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,1,1,1,2,1,2,4,4,4,3,5,5,5,2,2
+"156","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,1,2,1,2,2,2,2,2,4,4,4,4,4,4
+"157","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,2,2,4,2,3,2,2,1,4,2,4,2,3,4,2
+"158","Male",17,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,5,2,4,4,3,4,4,3,3,3,3,4,2,2,3,3
+"159","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,4,4,5,5,5,5,5,5,1,1,2,1,1,1
+"160","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,4,4,4,4,4,4,2,2,2,2,2,2,4
+"161","Female",20,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,4,5,4,4,4,5,4,4,4,2,2,1,2,1,2,4
+"162","Female",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,4,1,2,1,1,1,5,1,2,4,2,4,5,1,4
+"163","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,4,4,4,5,5,5,5,4,1,1,2,1,1,2
+"164","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,2,1,1,2,1,1,2,1,1,5,4,5,5,4,5
+"165","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,2,4,2,4,4,3,3,4,2,2,2,2,3,2
+"166","Female",19,"I most often speak a language other than English at home. The language is","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,3,2,3,2,3,2,4,4,4,5,3,3,3,3,2,2,3
+"167","Female",20,"I most often speak a language other than English at home. The language is","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,2,2,3,4,2,4,4,3,2,2,4,3,4,2,4
+"168","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,4,2,4,2,5,4,4,5,4,1,2,2,1,2,2
+"169","Female",20,"I most often speak English at home","Black or African-American",0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,2,2,2,3,4,2,3,2,4,3,4,4,3,4,4,3
+"170","Male",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,4,4,4,4,4,4,5,4,4,2,2,2,2,2,2,4
+"171","Female",21,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,5,4,2,4,2,4,1,5,4,4,2,2,2,2,1,2
+"172","Female",18,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,3,4,4,4,1,4,3,4,4,2,2,2,2,2,2,4
+"173","Female",18,"I most often speak English at home","Native Hawaiian or other Pacific Islander",0,0,0,0,1,0,0,0,0,0,0,0,0,4,4,5,4,5,2,3,4,5,2,2,4,2,2,4,2,4,2
+"174","Male",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,2,3,2,4,2,4,3,5,4,4,4,4,4,4,3,2,2
+"175","Male",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,1,3,1,2,1,2,2,2,1,3,4,3,4,4,4,3
+"176","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,4,4,3,2,4,4,4,2,2,2,2,3,2,2,4
+"177","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,1,2,2,1,4,2,4,1,1,2,4,4,5,4,5,4
+"178","Male",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,5,4,5,5,4,4,4,4,4,4,4,1,1,2,2,2,2
+"179","Female",21,"I most often speak English at home","Black or African-American",0,0,0,1,0,0,0,0,0,0,0,0,0,5,5,5,5,5,5,5,4,5,5,5,5,1,1,1,2,1,1
+"180","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,4,4,4,4,3,2,3,4,3,4,4,2,2,3,3,3,2
+"181","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,4,2,4,4,4,4,4,2,2,2,2,2,2
+"182","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,4,5,4,5,3,4,4,2,4,5,3,1,1,2,4,1
+"183","Female",18,"I most often speak a language other than English at home. The language is","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,3,4,5,3,4,2,5,4,4,3,2,3,1,2,1,2,4
+"184","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,2,3,1,2,1,2,4,2,1,4,4,3,4,4,4,2
+"185","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,4,2,4,4,2,4,5,5,4,4,1,4,2,2,1,2
+"186","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,4,3,3,1,3,2,3,5,4,5,3,2,3,3,3,2,3
+"187","Female",20,"I most often speak a language other than English at home. The language is","Middle Eastern or North African",0,1,0,0,0,0,0,0,0,0,0,0,0,5,4,5,5,4,4,3,4,5,4,5,5,2,1,2,2,2,1
+"188","Male",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,4,1,1,3,5,2,5,3,5,3,1,5,3,4,3,3
+"189","Male",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,2,3,1,2,2,2,4,2,4,2,4,3,4,4,4,4
+"190","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,4,3,3,4,4,2,4,4,2,3,4,3,2,4,2,3
+"191","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,4,1,4,2,3,4,4,4,4,2,2,2,3,2,2
+"192","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,2,3,1,1,1,1,1,5,5,4,5,5,5
+"193","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,2,1,1,2,1,1,2,1,2,1,5,5,4,5,5,5
+"194","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,4,4,2,4,2,4,4,4,2,4,1,2,2,2,2,2
+"195","Female",18,"I most often speak a language other than English at home. The language is","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,2,2,4,2,3,3,3,4,3,3,1,4,2,3,3,3,5
+"196","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,1,1,1,2,1,1,2,4,2,2,4,5,4,5,2,4
+"197","Male",18,"I most often speak English at home","Black or African-American",0,0,0,1,0,0,0,0,0,0,0,0,0,5,3,5,3,4,2,4,2,5,3,4,4,3,3,4,4,3,2
+"198","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,3,2,4,2,2,5,4,4,2,2,3,2,4,2,4
+"199","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,3,4,3,4,2,4,2,4,2,4,2,2,2,2,2,2
+"200","Male",25,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,5,4,4,2,4,3,2,5,4,4,1,1,2,2,4,2,5
+"201","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,4,2,1,3,2,3,2,2,2,2,4,4,3,3,4,4
+"202","Female",20,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,3,2,1,4,1,2,1,5,5,3,5,5,5
+"203","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,3,2,2,2,2,2,3,2,2,2,4,4,4,4,4,4
+"204","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,2,1,1,2,2,1,2,2,5,5,5,4,5,4
+"205","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,2,2,1,3,2,2,3,4,4,2,4,4,3,4,2,4
+"206","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,4,1,2,1,1,1,4,2,3,2,5,5,5,5,4,4
+"207","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,4,4,2,3,1,2,5,2,2,2,2,2,3,4,4,4
+"208","Male",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,4,2,1,2,3,3,3,4,4,2,4,4,4,3,2,4
+"209","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,4,3,4,2,4,3,3,4,5,3,3,3,4,3,2,3
+"210","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,4,4,4,2,4,4,5,2,4,1,2,2,2,1,2
+"211","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,4,4,4,4,4,4,3,2,2,2,2,2,3
+"212","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,1,1,1,1,1,1,1,2,2,1,5,5,5,5,4,5
+"213","Male",21,"I most often speak English at home","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2,1,1,1,1,1,2,2,1,1,5,5,5,5,4,5
+"214","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,3,3,4,4,3,3,4,2,4,2,3,2,3,2,2
+"215","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,4,1,2,1,2,1,2,1,4,1,2,2,4,4,4,2,4
+"216","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,2,2,4,2,2,4,2,2,4,4,2,4,2,4,4,2,4
+"217","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,2,3,2,2,2,2,2,2,2,2,4,4,4,4,4
+"218","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,3,2,1,1,2,2,4,4,1,1,2,4,5,4,2,5
+"219","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,3,4,2,4,3,4,3,4,5,2,2,2,2,2,2,4
+"220","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,3,4,4,4,4,4,4,4,2,2,2,2,2,2
+"221","Male",18,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,3,1,2,2,2,3,3,3,3,4,3,4,4,3,3
+"222","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,5,4,4,4,5,4,4,1,5,4,2,2,2,2,5,2
+"223","Male",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,5,4,4,4,5,4,1,5,5,2,1,2,1,5,1
+"224","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,2,4,2,2,4,4,4,4,2,2,2,4,2,2
+"225","Female",21,"I most often speak English at home","Black or African-American",0,0,0,1,0,0,0,0,0,0,0,0,0,4,2,1,2,2,2,2,2,3,4,2,2,4,4,4,4,2,4
+"226","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,4,2,4,2,1,2,2,4,5,2,2,4,4,4,2,4
+"227","Male",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,3,3,3,4,3,3,3,3,3,3,3,4,3,2,3,3,3,2
+"228","Male",21,"I most often speak English at home","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,4,4,5,4,4,2,2,2,4,4,2,2,2,2,4,4,2,4
+"229","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,4,1,1,1,1,2,4,1,2,5,2,5,5,2,4
+"230","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,4,5,3,3,2,4,5,4,4,2,3,1,3,2,2,4
+"231","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,4,3,2,3,4,4,5,4,4,4,3,3,3,2,2,2
+"232","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,2,3,3,3,2,3,4,4,2,4,3,3,3,3,2,2
+"233","Female",21,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,4,3,4,2,3,5,4,5,2,2,2,2,3,2,4
+"234","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,2,3,1,2,1,2,2,2,4,2,2,3,4,4,4,4
+"235","Male",20,"I most often speak English at home","Native Hawaiian or other Pacific Islander",0,0,0,0,1,0,0,0,0,0,0,0,0,5,5,5,5,4,4,4,5,5,4,5,5,1,1,2,1,2,1
+"236","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,4,4,4,4,4,4,4,2,2,2,2,2,2
+"237","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,3,1,2,2,2,4,3,3,2,4,3,4,4,3,4
+"238","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,2,3,2,2,2,2,4,4,2,2,3,3,4,4,2,4
+"239","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,2,2,2,1,2,2,1,2,4,2,4,4,5,4,4,4
+"240","Male",22,"I most often speak a language other than English at home. The language is","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,2,2,4,2,2,2,3,3,4,2,3,4,2,4,3,2,3
+"241","Female",21,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,3,3,2,2,3,1,2,3,4,1,2,3,4,3,4,2,4
+"242","Female",20,"I most often speak a language other than English at home. The language is","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,3,5,2,4,3,4,4,3,2,4,2,1,2,2,3,2
+"243","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,3,3,4,2,2,2,4,2,4,1,3,3,4,4,4,5
+"244","Male",20,"I most often speak a language other than English at home. The language is","Other Hispanic or Latino/Latina",0,0,0,0,0,1,1,0,0,0,0,0,0,5,4,5,4,5,3,4,3,5,4,4,4,2,2,3,3,2,2
+"245","Male",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,1,1,1,2,2,1,2,3,2,2,1,5,4,5,3,4
+"246","Female",20,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,3,4,4,3,3,4,4,4,3,4,3,2,3,2,2,2
+"247","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,5,5,4,4,1,4,4,4,4,4,2,1,2,2,2,2
+"248","Male",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,4,3,2,4,3,3,4,4,3,4,2,2,4,3,2,3,4
+"249","Female",19,"I most often speak English at home","Other:",0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,4,5,4,4,4,2,5,5,4,2,2,1,2,4,1,4
+"250","Female",19,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,2,3,2,1,2,3,2,3,2,2,2,4,4,4,4,4,4
+"251","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,4,4,4,4,3,5,4,4,4,2,2,2,3,2,2
+"252","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,2,2,2,2,2,4,3,4,4,2,4,4,4,3,2
+"253","Female",20,"I most often speak English at home","Native Hawaiian or other Pacific Islander",0,0,0,0,1,0,0,0,0,0,0,0,0,5,2,5,2,3,2,2,4,3,2,4,2,4,4,4,2,4,4
+"254","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3,2,1,2,1,2,5,2,1,2,4,4,4,4,4,4
+"255","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,4,4,4,4,4,4,5,4,5,4,2,2,2,2,2,2
+"256","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,5,5,4,5,5,5,5,5,5,5,1,1,1,1,1,1
+"257","Male",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,2,1,2,1,2,2,2,2,2,4,4,4,4,4,4
+"258","Female",18,"I most often speak English at home","Black or African-American",0,0,0,1,0,0,0,0,0,0,0,0,0,4,4,4,2,3,3,2,4,4,4,4,4,2,4,3,2,2,2
+"259","Female",20,"I most often speak English at home","American Indian or Alaska Native",1,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,5,5,5,5,2,5,5,5,1,1,1,1,1,1
+"260","Female",20,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,3,2,3,4,2,4,3,3,2,3,3,4,2,2,3,3
+"261","Female",22,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,2,2,4,3,2,3,3,4,4,3,3,4,3,3,2,3
+"262","Female",20,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,4,4,5,3,3,4,4,4,3,5,4,4,2,3,2,2,1,2
+"263","Male",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,3,3,2,3,3,3,4,3,2,3,3,3,3,3,3,3
+"264","Female",18,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,4,2,2,3,4,3,5,2,4,2,2,4,3,3,4,4
+"265","Female",21,"I most often speak English at home","Asian or Asian-American",0,0,1,0,0,0,0,0,0,0,0,0,0,5,5,4,4,2,4,2,4,2,4,5,4,1,2,2,2,2,2
+"266","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,3,2,2,2,2,2,2,3,3,2,3,4,4,4,3,4
+"267","Female",19,"I most often speak English at home","White or European-American",0,0,0,0,0,0,0,0,0,1,0,0,0,5,4,3,2,5,3,2,3,4,3,4,2,2,4,3,3,3,4
