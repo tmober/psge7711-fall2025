@@ -81,9 +81,3 @@ correlations
 
 corrplot::corrplot(correlations) 
 corrplot::corrplot(correlations, method = 'number') # colorful number
-
-
-###
-# (8) Saving a file to a .csv or R data file (.rds)
-write.csv(correlations, "correlations.csv", row.names = FALSE)
-# This will allow you to save the correlation matrix without row names being included in the file
