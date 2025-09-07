@@ -1,43 +1,10 @@
 # PSGE 7711
 # Getting Set-up in R 
 
-
-
-# Congratulations! It seems that you've figured out how to open the R file! Note that this activity is meant to be conducted in Posit Cloud.
+# Note that if you are completing this activity using the Destop version of this script (02_R_Desktop_Set-up.R , then you will have 3 extra steps to complete before you can load the data
 
 ###
-# (1) Opening this R script file
-# If this file has not opened in the RStudio app, that means you need to download one of the following:
-## R (https://cran.r-project.org/)
-## RStudio (https://posit.co/download/rstudio-desktop/)
-# Both are free to download and install.
-
-# If both are installed and you are still not opening in Rstudio, that means you should right-click on this file to open it with the RStudio app.
-
-
-### 
-# (2) Installing or Loading Required Packages
-install.packages("psych")
-library(psych)
-install.packages("corrplot")
-library(corrplot)
-
-###
-# (2) Create/set working directory
-# Before you go any further, create a folder where you plan to save this file and any other R script files or data files for this course. 
-# Move all of those files to that folder.
-# This folder will serve as your working directory
-
-
-## This next piece of code is very important as it will help the R application "find" the data you are trying to use or save any output files you are trying to create.
-wd <- getwd() # This gets your working directory and saves it as an object in your R environment.
-setwd(wd) # This sets your working directory. 
-
-# If you check the "Console" at the bottom of your R Studio window, you should see that the wd is the same as the folder path you just moved this file to.
-
-
-###
-# (3) Importing data
+# Importing data
 ## Make sure that your data file is saved to the same folder as this file. For the time-being
 load("test_anxiety_data.Rdata") # this load the "ta_data" dataframe
 
